@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Maza! :wave:
+### Hi there I'm Maza! :wave:
 
 A Newbie Web Dev and Machine Learning Enthusiast :sparkles:
 
@@ -10,5 +8,5 @@ A Newbie Web Dev and Machine Learning Enthusiast :sparkles:
 - 🔭 I’m currently studying on SMKN 1 Purbalingga
 - 🌱 I’m currently learning AI, ML, Data Science, Laravel and CodeIgniter 3
 - ⚡️ Fun Fact : Not found
-- 📫 Reach me : :email: `mazayanova91 at gmail.com`
+- :email: Reach me : `mazayanova91 at gmail.com`
 

@@ -7,6 +7,5 @@ A Newbie Web Dev and Machine Learning Enthusiast :sparkles:
 
 - 🔭 I’m currently studying on SMKN 1 Purbalingga
 - 🌱 I’m currently learning AI, ML, Data Science, Laravel and CodeIgniter 3
-- ⚡️ Fun Fact : Not found
-- :email: Reach me : `mazayanova91 at gmail.com`
+- ⚡️ Reach me : `mazayanova91 at gmail.com`
 
